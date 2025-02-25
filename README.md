@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Buğra Önsöz.</h1>
 <h3 align="center">A passionate developer from Türkiye.</h3>
 
-- 🔭 I’m currently working on [Hospital Appointment website with ASP.NET](https://github.com/bugraonsoz/HastaneRandevuSistemi)
+- 🔭 I’m currently studying on Machine Learning.
 
 - 🌱 I’m currently learning **Asp.Net MVC Core, Data Science with Python**
 
