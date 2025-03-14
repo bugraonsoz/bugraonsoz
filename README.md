@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying on Machine Learning.
 
-- 🌱 I’m currently learning **Asp.Net MVC Core, Data Science with Python**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bugraonsoz?tab=repositories](https://github.com/bugraonsoz?tab=repositories)
 
