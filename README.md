@@ -4,9 +4,6 @@
 <h1 align="center">Hi 👋, I'm Buğra Önsöz.</h1>
 <h3 align="center">A passionate developer from Türkiye.</h3>
 
-- 🔭 I’m currently studying on Machine Learning.
-
-- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bugraonsoz?tab=repositories](https://github.com/bugraonsoz?tab=repositories)
 
